@@ -1,0 +1,2 @@
+<%= link_to "delete", article_path(@article), method: :delete %>
+  why method: :delete?
