@@ -13,8 +13,4 @@ class Article < ActiveRecord::Base
     self.tags = new_or_found_tags
   end
 
-  # def tag_path
-  #
-  # end
-
 end
