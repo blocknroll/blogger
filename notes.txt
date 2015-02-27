@@ -1,3 +1,7 @@
+http://tutorials.jumpstartlab.com/projects/blogger.html
+
+
+
 <%= link_to "delete", article_path(@article), method: :delete %>
   why method: :delete?
 
